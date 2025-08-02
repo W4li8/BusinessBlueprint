@@ -1,0 +1,30 @@
+{
+    "version": "1.0.0",
+    "name": "Default Setup",
+    "description": "A workspace configuration for default setup in VS Code.",
+    "type": "default-setup",
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    
+    "extensions": {
+        "recommendations": [
+            "beardedbear.beardedicons",
+            "aaron-bond.better-comments",
+            "ms-vscode-remote.remote-ssh"
+        ]
+    },
+    "settings": {
+        "workbench.colorTheme": "Default Dark Modern",
+        "workbench.iconTheme": "bearded-icons",
+        "files.exclude": {
+            "**/.git": true,
+            "**/.git*": false
+        },
+        "search.exclude": {
+            "**/.git*": true
+        }
+    }
+}
