@@ -3,9 +3,9 @@
     "workbench.iconTheme": "bearded-icons",
     "files.exclude": {
         "**/.git": true,
-        "**/.*": false
+        "**/.*": false  // keep hidden files visible
     },
     "search.exclude": {
-        "**/.git*": true
+        // "**/build": true
     }
 }
