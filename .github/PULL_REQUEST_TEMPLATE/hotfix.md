@@ -1,3 +1,4 @@
+<!-- https://github.com/W4li8/SoftwareBlueprint/compare/main...branch?template=hotfix.md -->
 ## Description
 
 Please include a summary of the change and which issue is fixed.
