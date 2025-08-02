@@ -1,3 +1,8 @@
+---
+name: New feature
+about: Develop a new feature here
+---
+
 ## Description
 
 Please include a description of the new feature.
