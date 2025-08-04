@@ -2,6 +2,7 @@
     "recommendations": [
         "beardedbear.beardedicons",
         "aaron-bond.better-comments",
-        "ms-vscode-remote.remote-ssh"
+        "ms-vscode-remote.remote-ssh",
+        "asciidoctor.asciidoctor-vscode"
     ]
 }
